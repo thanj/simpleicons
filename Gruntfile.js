@@ -23,10 +23,11 @@ module.exports = function(grunt) {
               subtasks[provider+'-'+size] = {
                 command: [
                   'inkscape', 
-                    '-e', 'dist/'+size+'/'+provider+'.png', // export png with filename
-                    '-w', size, '-h', size,                 // dimensions
-                    '-y', '0',                              // background opacity
-                    'src/'+provider+'/'+provider+'.svg'     // source filename
+                    '-e', 'dist/'+size+'/'+provider+'.png',                          // export png with filename
+                    '-w', size, '-h', size,                                          // dimensions
+//                  '--export-background=' + '#' + providers[provider].background,   // solid background
+                    '-y', '0',                                                       // background opacity
+                    'src/'+provider+'/'+provider+'.svg'                              // source filename
                 ].join(' ')
               };
               return subtasks

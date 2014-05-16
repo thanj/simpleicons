@@ -325,6 +325,11 @@
 		"credit" : "jQuery Foundation"
 	},
 	{
+		"name" : "Janrain",
+		"hex" : "1A757D",
+		"credit" : "Janrain, Inc"
+	},
+        {
 		"name" : "JSDB",
 		"hex" : "DA320B",
 		"credit" : "JSDB"
@@ -417,6 +422,11 @@
 	{
 		"name" : "Microsoft Account",
 		"hex" : "3E73B4",
+		"credit" : "Nathaniel Taintor"
+	},
+	{
+		"name" : "Mixi",
+		"hex" : "D1AD59",
 		"credit" : "Nathaniel Taintor"
 	},
 	{

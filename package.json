@@ -1,0 +1,22 @@
+{
+  "name": "janrain-simpleicons",
+  "version": "0.0.0",
+  "description": "Modified from Dan Leech's simpleicons set - http://simpleicons.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thanj/simpleicons.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/thanj/simpleicons/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-shell": "~0.7.0"
+  }
+}

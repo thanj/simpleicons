@@ -1,0 +1,302 @@
+{
+  "janrain": {
+    "logo": {
+      "transparent": false,
+      "filename": "janrain.png"
+    },
+    "buttontext": "Janrain",
+    "displayname": "Janrain",
+    "background": "009DDC",
+    "text": "009DDC"
+  },
+  "email": {
+    "logo": {
+      "transparent": false,
+      "filename": "email.png"
+    },
+    "buttontext": "email",
+    "displayname": "email",
+    "background": "009DDC",
+    "text": "009DDC"
+  },
+  "xing": {
+    "logo": {
+      "transparent": false,
+      "filename": "xing.png"
+    },
+    "buttontext": "XING",
+    "displayname": "XING",
+    "background": "006567",
+    "text": "006567"
+  },
+  "vk": {
+    "logo": {
+      "transparent": false,
+      "filename": "vk.png"
+    },
+    "buttontext": "VK",
+    "displayname": "VK",
+    "background": "45668E",
+    "text": "45668E"
+  },
+  "mixi": {
+    "logo": {
+      "transparent": true,
+      "filename": "mixi.png"
+    },
+    "buttontext": "mixi",
+    "displayname": "mixi",
+    "background": "D1AD5A",
+    "text": "D1AD5A"
+  },
+  "livejournal": {
+    "logo": {
+      "transparent": true,
+      "filename": "livejournal.png"
+    },
+    "buttontext": "LiveJournal",
+    "displayname": "LiveJournal",
+    "background": "2B5889",
+    "text": "2B5889"
+  },
+  "aol": {
+    "logo": {
+      "transparent": true,
+      "filename": "aol.png"
+    },
+    "buttontext": "Aol",
+    "displayname": "Aol",
+    "background": "000",
+    "text": "000"
+  },
+  "amazon": {
+    "logo": {
+      "transparent": true,
+      "filename": "amazon.png"
+    },
+    "buttontext": "Amazon",
+    "displayname": "Amazon",
+    "background": "FF9900",
+    "text": "000"
+  },
+  "googleplus": {
+    "logo": {
+      "transparent": true,
+      "filename": "googleplus.png"
+    },
+    "buttontext": "Google",
+    "displayname": "Google+",
+    "background": "CC3732",
+    "text": "737373"
+  },
+  "facebook": {
+    "logo": {
+      "transparent": false,
+      "filename": "facebook.png"
+    },
+    "buttontext": "Facebook",
+    "displayname": "Facebook",
+    "background": "3B5998",
+    "text": "3B5998"
+  },
+  "twitter": {
+    "logo": {
+      "transparent": false,
+      "filename": "twitter.png"
+    },
+    "buttontext": "Twitter",
+    "displayname": "Twitter",
+    "background": "27C9FF",
+    "text": "27C9FF"
+  },
+  "myspace": {
+    "logo": {
+      "transparent": true,
+      "filename": "myspace.png"
+    },
+    "buttontext": "Myspace",
+    "displayname": "Myspace",
+    "background": "000",
+    "text": "000"
+  },
+  "instagram": {
+    "logo": {
+      "transparent": false,
+      "filename": "instagram.png"
+    },
+    "buttontext": "Instagram",
+    "displayname": "Instagram",
+    "background": "517FA4",
+    "text": "517FA4"
+  },
+  "disqus": {
+    "logo": {
+      "transparent": false,
+      "filename": "disqus.png"
+    },
+    "buttontext": "Disqus",
+    "displayname": "Disqus",
+    "background": "2E9FFF",
+    "text": "2E9FFF"
+  },
+  "microsoftaccount": {
+    "logo": {
+      "transparent": false,
+      "filename": "microsoftaccount.png"
+    },
+    "buttontext": "Microsoft Account",
+    "displayname": "Microsoft Account",
+    "background": "3E73B4",
+    "text": "3E73B4"
+  },
+  "yahoo": {
+    "logo": {
+      "transparent": false,
+      "filename": "yahoo.png"
+    },
+    "buttontext": "Yahoo",
+    "displayname": "Yahoo",
+    "background": "670267",
+    "text": "670267"
+  },
+  "netlog": {
+    "logo": {
+      "transparent": true,
+      "filename": "netlog.png"
+    },
+    "buttontext": "Netlog",
+    "displayname": "Netlog",
+    "background": "000",
+    "text": "000"
+  },
+  "flickr": {
+    "logo": {
+      "transparent": true,
+      "filename": "flickr.png"
+    },
+    "buttontext": "Flickr",
+    "displayname": "Flickr",
+    "background": "0063DB",
+    "text": "0063DB"
+  },
+  "blogger": {
+    "logo": {
+      "transparent": false,
+      "filename": "blogger.png"
+    },
+    "buttontext": "Blogger",
+    "displayname": "Blogger",
+    "background": "F7931E",
+    "text": "F7931E"
+  },
+  "verisign": {
+    "logo": {
+      "transparent": true,
+      "filename": "verisign.png"
+    },
+    "buttontext": "Verisign",
+    "displayname": "Verisign",
+    "background": "FFC10C",
+    "text": "FFC10C"
+  },
+  "wordpress": {
+    "logo": {
+      "transparent": false,
+      "filename": "wordpress.png"
+    },
+    "buttontext": "WordPress",
+    "displayname": "WordPress",
+    "background": "21759B",
+    "text": "21759B"
+  },
+  "linkedin": {
+    "logo": {
+      "transparent": false,
+      "filename": "linkedin.png"
+    },
+    "buttontext": "LinkedIn",
+    "displayname": "LinkedIn",
+    "background": "005A87",
+    "text": "005A87"
+  },
+  "paypal": {
+    "logo": {
+      "transparent": true,
+      "filename": "paypal.png"
+    },
+    "buttontext": "PayPal",
+    "displayname": "PayPal",
+    "background": "1F356F",
+    "text": "1F356F"
+  },
+  "salesforce": {
+    "logo": {
+      "transparent": false,
+      "filename": "salesforce.png"
+    },
+    "buttontext": "Salesforce",
+    "displayname": "Salesforce",
+    "background": "009DDC",
+    "text": "009DDC"
+  },
+  "orkut": {
+    "logo": {
+      "transparent": true,
+      "filename": "orkut.png"
+    },
+    "buttontext": "orkut",
+    "displayname": "orkut",
+    "background": "B90C91",
+    "text": "B90C91"
+  },
+  "vzn": {
+    "logo": {
+      "transparent": false,
+      "filename": "vzn.png"
+    },
+    "buttontext": "VZ Netzwerke",
+    "displayname": "VZ Netzwerke",
+    "background": "EE0000",
+    "text": "EE0000"
+  },
+  "tumblr": {
+    "logo": {
+      "transparent": false,
+      "filename": "tumblr.png"
+    },
+    "buttontext": "Tumblr",
+    "displayname": "Tumblr",
+    "background": "31516F",
+    "text": "31516F"
+  },
+  "foursquare": {
+    "logo": {
+      "transparent": false,
+      "filename": "foursquare.png"
+    },
+    "buttontext": "Foursquare",
+    "displayname": "Foursquare",
+    "background": "1769B4",
+    "text": "1769B4"
+  },
+  "sinaweibo": {
+    "logo": {
+      "transparent": true,
+      "filename": "sinaweibo.png"
+    },
+    "buttontext": "Sina Weibo",
+    "displayname": "Sina Weibo",
+    "background": "D72829",
+    "text": "D72829"
+  },
+  "soundcloud": {
+    "logo": {
+      "transparent": false,
+      "filename": "soundcloud.png"
+    },
+    "buttontext": "SoundCloud",
+    "displayname": "SoundCloud",
+    "background": "FF4C13",
+    "text": "FF4C13"
+  }
+}

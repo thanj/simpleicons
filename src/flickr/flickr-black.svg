@@ -1,1 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"><path d="M61.647 64c0 10.396-8.428 18.824-18.824 18.824s-18.823-8.428-18.823-18.824 8.427-18.824 18.824-18.824c10.396 0 18.823 8.428 18.823 18.824m42.353 0c0-10.396-8.427-18.824-18.824-18.824-10.396 0-18.824 8.427-18.824 18.824s8.428 18.824 18.824 18.824c10.397 0 18.824-8.428 18.824-18.824"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="128"
+   height="128"
+   id="svg2">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <path
+     d="m 61.647,64 c 0,10.396 -8.428,18.824 -18.824,18.824 C 32.427,82.824 24,74.396 24,64 24,53.604 32.427,45.176 42.824,45.176 53.22,45.176 61.647,53.604 61.647,64 M 104,64 C 104,53.604 95.573,45.176 85.176,45.176 74.78,45.176 66.352,53.603 66.352,64 c 0,10.397 8.428,18.824 18.824,18.824 C 95.573,82.824 104,74.396 104,64"
+     inkscape:connector-curvature="0"
+     id="path4" />
+</svg>

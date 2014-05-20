@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: IcoMoon.io -->
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -7,44 +7,20 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   id="Layer_1"
-   x="0px"
-   y="0px"
    width="128"
    height="128"
    viewBox="0 0 128 128"
-   enable-background="new 0 0 256 256"
-   xml:space="preserve"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="email-black.svg"><metadata
+   id="Layer_1"
+   xml:space="preserve"><metadata
      id="metadata3054"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs3052" /><sodipodi:namedview
-     pagecolor="#009DDC"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview3050"
-     showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="-1.0847458"
-     inkscape:cy="128"
-     inkscape:window-x="3286"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" /><g
-     id="g3046"
-     transform="translate(0,-128)" /><path fill="#009DDC"
+     id="defs3052" /><g
+     transform="translate(0,-128)"
+     id="g3046" /><path
      d="m 95.587481,63.123472 0,-18.639367 -19.968747,-19.968419 -43.206218,0 0,38.607786 -10.529216,-7.020137 0,44.542855 20.821701,-18.219979 6.015186,-5.264773 2.054079,-1.799215 -13.097307,-8.730002 0,-36.852091 35.762075,0 1.090014,1.090014 0,14.703975 14.70398,0 1.089687,1.089684 0,19.968418 -13.099621,8.730002 2.056383,1.799215 6.015194,5.264773 20.822029,18.219979 0,-44.542855 z m -24.3077,14.037966 -14.562529,0 -6.0175,5.264773 -24.066023,21.058099 74.732211,0 -24.065693,-21.058099 z m -49.396482,-21.058103 10.529216,-5.264773 0,5.264773 z m 84.233401,0 -10.529219,-5.264773 0,5.264773 z"
+     inkscape:connector-curvature="0"
      id="path3048"
-     inkscape:connector-curvature="0" /></svg>
+     style="fill:#009ddc" /></svg>

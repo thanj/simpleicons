@@ -1,1 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"><g fill-rule="evenodd" clip-rule="evenodd"><path opacity=".5" d="M39.376 95.402c11.315-24.108 27.285-45.561 45.839-65.537 4.896-6.538 13.962-8.111 14.239-2.148-.019 2.338-.057 4.638-.114 6.912-22.458 18.384-40.52 40.393-55.928 64.419-1.534-1.062-2.899-2.276-4.036-3.646z"/><path d="M33.722 88.964c-11.618-24.359-3.785-42.484 24.575-54.026l-24.575 54.026zm48.568 7.998c12.414-10.543 16.349-33.981 17.051-62.334-22.458 18.384-40.52 40.393-55.928 64.419 10.057 6.911 27.619 6.924 38.877-2.085z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="128"
+   height="128"
+   id="svg2">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <g
+     id="g4"
+     style="fill-rule:evenodd">
+    <path
+       d="M 39.376,95.402 C 50.691,71.294 66.661,49.841 85.215,29.865 90.111,23.327 99.177,21.754 99.454,27.717 99.435,30.055 99.397,32.355 99.34,34.629 76.882,53.013 58.82,75.022 43.412,99.048 41.878,97.986 40.513,96.772 39.376,95.402 z"
+       inkscape:connector-curvature="0"
+       id="path6"
+       style="opacity:0.5" />
+    <path
+       d="M 33.722,88.964 C 22.104,64.605 29.937,46.48 58.297,34.938 L 33.722,88.964 z M 82.29,96.962 C 94.704,86.419 98.639,62.981 99.341,34.628 76.883,53.012 58.821,75.021 43.413,99.047 c 10.057,6.911 27.619,6.924 38.877,-2.085 z"
+       inkscape:connector-curvature="0"
+       id="path8" />
+  </g>
+</svg>

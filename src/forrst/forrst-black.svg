@@ -1,1 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"><polygon points="52.194,81.425 53.421,79.526 60.256,84.235 60.256,71 68.256,71 68.256,79.412 74.757,75.863 76.016,77.969 68.256,82.132 68.256,88.29 80.64,81.974 81.761,84.011 68.256,90.833 68.256,104 97.373,104 64,24 30.627,104 60.256,104 60.256,87.025"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="128"
+   height="128"
+   id="svg2">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <polygon
+     points="53.421,79.526 60.256,84.235 60.256,71 68.256,71 68.256,79.412 74.757,75.863 76.016,77.969 68.256,82.132 68.256,88.29 80.64,81.974 81.761,84.011 68.256,90.833 68.256,104 97.373,104 64,24 30.627,104 60.256,104 60.256,87.025 52.194,81.425 "
+     id="polygon4" />
+</svg>

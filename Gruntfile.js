@@ -34,16 +34,34 @@ module.exports = function(grunt) {
             }, subtasks
           );
           return subtasks
-        }, {
-          makeStage: {
-            command: iconSizes.reduce( 
-                function(dirs, size) { 
-                  dirs.push( 'mkdir -p dist/' + size )
-                  return dirs
-                }, [ 'mkdir -p dist' ]
-              ).join('&&')
-          }
-        }
+        }, Object.keys(providers).reduce(
+            function(subtasks, provider) {
+                subtasks[provider+'-solid-32'] = {
+                    command: [
+                      'sed',                                                           // (inkscape can't handle piped input, so:)
+                        '"s/#fff\\(fff\\)\\?/#'+providers[provider].background+'/Ig"', // Replace white with provider color
+                        'src/'+provider+'/'+provider+'.svg',                           // from source filename
+                        '>src/'+provider+'/'+provider+'-solid.svg',                    // to new svg filename
+                      '&&',
+                      'inkscape',
+                        '-e', 'dist/solid/'+provider+'.png',                           // export png with filename
+                        '-w', '32', '-h', '32',                                        // dimensions
+                        '-y', '0',                                                     // background opacity
+                        'src/'+provider+'/'+provider+'-solid.svg'                      // from the source file created above
+                    ].join(' ')
+                };
+                return subtasks;
+            }, {
+                  makeStage: {
+                    command: iconSizes.reduce( 
+                        function(dirs, size) { 
+                          dirs.push( 'mkdir -p dist/' + size )
+                          return dirs
+                        }, [ 'mkdir -p dist', 'mkdir -p dist/solid' ]
+                      ).join('&&')
+                  }
+                }
+        )
       ),
 
   });

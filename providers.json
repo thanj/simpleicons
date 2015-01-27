@@ -328,5 +328,15 @@
     "displayname": "Tencent QQ",
     "background": "20B2ED",
     "text": "20B2ED"
+  },
+  "media_id": {
+    "logo": {
+      "transparent": true,
+      "filename": "media_id.png"
+    },
+    "buttontext": "Media ID",
+    "displayname": "Media ID",
+    "background": "4B91D4",
+    "text": "434DA9"
   }
 }
